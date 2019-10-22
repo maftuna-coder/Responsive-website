@@ -1,0 +1,1 @@
+I created responsive website with smooth scrolling using CSS, HTML, Bootstrap 
